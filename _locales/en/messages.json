@@ -1,0 +1,23 @@
+{
+  "extName": {
+    "message": "Wikipedia Lookup - Context Menu"
+  },
+  "extDesc": {
+    "message": "Search Wikipedia from the context menu."
+  },
+  "textMenuItem": {
+    "message": "Search Wikipedia for ″%s″"
+  },
+  "whichLang": {
+    "message": "Which language edition should I load?"
+  },
+  "autoLangOn": {
+    "message": "try to match the language of the active page"
+  },
+  "autoLangOff": {
+    "message": "always open"
+  },
+  "save": {
+    "message": "Save"
+  }
+}

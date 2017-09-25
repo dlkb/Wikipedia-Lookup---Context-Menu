@@ -1,0 +1,23 @@
+{
+  "extName": {
+    "message": "Wikipedia Lookup - Menu contextuel"
+  },
+  "extDesc": {
+    "message": "Consultez Wikipédia depuis le menu contextuel."
+  },
+  "textMenuItem": {
+    "message": "Chercher ″%s″ dans Wikipédia"
+  },
+  "whichLang": {
+    "message": "Quelle édition de Wikipédia charger&nbsp;?"
+  },
+  "autoLangOn": {
+    "message": "même langue que la page active"
+  },
+  "autoLangOff": {
+    "message": "toujours ouvrir"
+  },
+  "save": {
+    "message": "Enregistrer"
+  }
+}

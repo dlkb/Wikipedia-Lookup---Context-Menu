@@ -1,0 +1,52 @@
+<html>
+<head>
+<title></title>
+<script type="text/javascript" src="options.js"></script>
+<style>
+fieldset {
+  margin-top: 1em;
+}
+fieldset:first-child {
+  margin-top: 0;
+}
+.item {
+  margin: 0.7em 0.5em 0.6em 0.5em;
+}
+#autoLangOffSpan {
+  margin-right: 0.5em;
+}
+#wikiLangTxt {
+  width: 3em;
+  text-align: center;
+}
+#footer {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+}
+</style>
+</head>
+<body>
+  <fieldset>
+    <legend id="whichLang"></legend>
+    <div class="item">
+      <input type="radio" name="lang" id="autoLangOnRad" />
+      <label for="autoLangOnRad">
+        <span id="autoLangOnSpan"></span>
+      </label>
+    </div>
+    <div class="item">
+      <input type="radio" name="lang" id="autoLangOffRad" />
+      <label for="autoLangOffRad">
+        <span id="autoLangOffSpan"></span>
+        <b>https://<input type="text" id="wikiLangTxt" />.wikipedia.org/</b>
+      </label>
+    </div>
+  </fieldset>
+  <div id="footer">
+    <button id="save"></button>
+  </div>
+</body>
+</html>
