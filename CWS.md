@@ -8,7 +8,7 @@ To access the options, visit chrome://extensions/
 
 If you like it, please rate it.
 
-github: https://github.com/damien-brunet/Wikipedia-Lookup---Context-Menu/
+github: https://github.com/dlkb/Wikipedia-Lookup---Context-Menu
 
 My other extensions:
 - Wikipedia Lookup - Browser Action
